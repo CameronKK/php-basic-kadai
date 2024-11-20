@@ -40,7 +40,6 @@
             $potato = new Food('potato', 250);
             $dog = new Animal('dog', 60, 5000);
             
-
             print_r($potato);
             echo '<br>';
             print_r($dog);
